@@ -12,3 +12,7 @@ table.category {
     table-layout: fixed;
     width: 100%;
 }
+
+p {
+    font-family: serif;
+}
