@@ -15,6 +15,9 @@ p.title {
 p.toukoubi {
     text-align: right;
 }
+div.pankz {
+    background-color: #FFF0F0;
+}
 
 div.tanmatsu {
     background-color: #222222;
@@ -67,4 +70,4 @@ a.ahref {
     color: black;
 }
 
-/* テンプレート作成　2022/11/06 */
+/* 作成　2022/11/08 */
