@@ -44,6 +44,10 @@ div.tanmatsu {
     .sp {
         display: block !important;
     }
+    body {
+        width: 100%;
+        margin: 0;  /* スマホの場合は中央揃えが不要なので、marginをリセット */
+    }
 }
 
 div.toukou {
@@ -74,4 +78,4 @@ video.video1 {
     width: 100%;
 }
 
-/* 作成　2022/11/08 編集2024/9/16 video.video1追加*/
+/* 作成　2022/11/08 編集2024/9/16-1 スマホ対応追加*/
